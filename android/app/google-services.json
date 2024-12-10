@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68960190449",
+    "project_id": "places-dd435",
+    "storage_bucket": "places-dd435.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68960190449:android:c61356f24a7f72f2988e50",
+        "android_client_info": {
+          "package_name": "com.example.places"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLJtkFFhc1qifBvlmsPUR8EBFomPzWwCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
